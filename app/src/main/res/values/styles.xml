@@ -1,0 +1,23 @@
+<resources>
+
+    <style name="NormalTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimary</item>
+        <item name="colorAccent">@color/colorPrimary</item>
+        <item name="iconColor">@color/colorPrimary</item>
+        <item name="textColor">@color/black</item>
+        <item name="windowBackgroundColor">@color/white</item>
+        <item name="itemBackgroundColor">@color/white</item>
+    </style>
+
+    <style name="NightTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimaryNight</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryNight</item>
+        <item name="colorAccent">@color/colorPrimaryNight</item>
+        <item name="iconColor">@color/white</item>
+        <item name="textColor">@color/white</item>
+        <item name="windowBackgroundColor">@color/nightWindowBackground</item>
+        <item name="itemBackgroundColor">@color/colorAccentNight</item>
+    </style>
+
+</resources>

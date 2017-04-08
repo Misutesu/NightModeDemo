@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="iconColor" format="color"/>
+    <attr name="textColor" format="color"/>
+    <attr name="windowBackgroundColor" format="color"/>
+    <attr name="itemBackgroundColor" format="color"/>
+</resources>

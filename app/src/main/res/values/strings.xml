@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NightModeDemo</string>
+    <string name="night_mode">夜间模式</string>
+    <string name="re_create">recreate</string>
+    <string name="start_activity">startActivity</string>
+    <string name="anim">Anim</string>
+</resources>
